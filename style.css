@@ -64,6 +64,8 @@ body{
     inset: 5px;
     border-radius: 16px;
     background: #0c1022;
+    display: flex;
+    justify-content: center;
     align-items: center;
     z-index: 1;
 }
